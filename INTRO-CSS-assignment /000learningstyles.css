@@ -15,11 +15,11 @@ div {
 }
 
 .pizza {
-  /* several unique declarations */
+  color: aqua;
 }
 
 .carbonara {
-  /* several unique declarations */
+ color: bisque;
 }
 .subsection {
   color: lightseagreen;
