@@ -1,0 +1,82 @@
+div {
+    color: black;
+    
+}
+.example {
+        color:blue;
+    }
+    #the-odin-project {
+        background-color:red;
+    }
+    .pizza,
+.carbonara {
+  color: white;
+  background-color: black;
+}
+
+.pizza {
+  /* several unique declarations */
+}
+
+.carbonara {
+  /* several unique declarations */
+}
+.subsection {
+  color: lightseagreen;
+}
+.subsection.header {
+  color: red;
+}
+
+
+.subsection.header {
+  color: red;
+
+}
+
+
+.subsection#preview {
+  color: blue;
+}
+.ancestor .contents {
+  color: gold;
+}
+.dek .cini .ettore {
+  background-color: blue;
+  color:violet;
+}
+.dek .cini {
+  color: darkolivegreen;
+}
+p {
+  color: burlywood;
+}
+p{
+  color: rgb(rgb(136, 53, 53), green, blue);
+
+}
+p {
+  color: hsl(20, 65%, 23%);
+  
+}
+.description-food {
+  font-family: 'Times New Roman', georgia,serif ;
+  color: rgb(0,0,150);
+font-size: 24px;
+font-weight: 600;
+text-align: center;
+
+}
+.frisa.jpg {
+height: 250;
+width: 250;
+
+}
+
+
+
+
+
+
+
+   
